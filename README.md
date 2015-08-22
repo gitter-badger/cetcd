@@ -1,5 +1,7 @@
 # Cetcd is a C client for etcd
 
+[![Join the chat at https://gitter.im/shafreeck/cetcd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shafreeck/cetcd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![wercker status](https://app.wercker.com/status/cc417f5b6e093b4d0b962580a3d022cb/s/master "wercker status")](https://app.wercker.com/project/bykey/cc417f5b6e093b4d0b962580a3d022cb)
 
 ## Status
